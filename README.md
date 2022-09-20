@@ -15,12 +15,15 @@ The purpose of this analysis was to use knowledge of machine learning and neural
 - In order to increase performance I tried a variety of things including removing additional features, increasing the amount of hidden layers, changing the activation function for a layer, and changing the amount of epochs.
 
 First Attempt
+
 ![A1](attempt_1.png)
 
 Second Attempt
+
 ![A2](attempt_2.png)
 
 Third Attempt
+
 ![A3](attempt_3.png)
 
 ---
